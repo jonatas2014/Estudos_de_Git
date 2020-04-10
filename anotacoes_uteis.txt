@@ -1,0 +1,4 @@
+-O origin geralmente é principal repositório remoto
+-O fetch te permite baixar as coisas do repositório
+-O push permite enviar as coisas para o repositório   
+
