@@ -5,5 +5,7 @@ Jabba The Hutt
 Han Solo
 Chewbacca
 
+Rey
+Finn
 
 
