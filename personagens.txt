@@ -1,7 +1,9 @@
-
 Luke Skywalker
 Obi Wan Kenobi
 Mater Yoda
 Jabba The Hutt
+Han Solo
+Chewbacca
+
 
 
